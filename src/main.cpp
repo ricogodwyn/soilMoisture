@@ -35,4 +35,5 @@ void relayDC(){
 void loop()
 {
   soilCount();
+  relayDC();
 }
